@@ -20,35 +20,6 @@ The target sequence analysed in this project corresponds to the
 - To strengthen functional inference using additional computational analyses
 - To provide a biologically meaningful interpretation of results
 
----
-
-## Project Structure
-
-Functional_Sequence_Characterization/
-│
-├── analysis/
-│ ├── sequence_qc.py
-│ ├── homology_analysis.py
-│ └── additional_analysis.py
-│
-├── data/
-│ └── input_sequence.fasta
-│
-├── results/
-│ ├── qc_summary.txt
-│ ├── blast_results.xml
-│ ├── blast_results.txt
-│ ├── functional_annotation.txt
-│ ├── motif_analysis.txt
-│ ├── identity_analysis.txt
-│ ├── biological_interpretation.txt
-│ ├── aa_composition.png
-│ ├── conservation_plot.png
-│ └── identity_plot.png
-│
-└── README.md
----
-
 ## Pipeline Description
 
 ### Step 2: Sequence Quality & Basic Analysis
@@ -136,4 +107,5 @@ From the project root directory:
 python analysis/sequence_qc.py
 python analysis/homology_analysis.py
 python analysis/additional_analysis.py
+
 
