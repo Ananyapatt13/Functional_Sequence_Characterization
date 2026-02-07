@@ -1,0 +1,6 @@
+PAIRWISE IDENTITY ANALYSIS
+--------------------------
+
+Identities: 573
+Alignment length: 573
+Percent identity: 100.00%

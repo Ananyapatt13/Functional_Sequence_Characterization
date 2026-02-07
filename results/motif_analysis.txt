@@ -1,0 +1,8 @@
+MOTIF ANALYSIS RESULTS
+---------------------
+
+Walker A motifs:
+Position 334-341: GPPGTGKT
+
+Walker B motifs:
+Position 393-398: VLFIDE

@@ -1,0 +1,24 @@
+BIOLOGICAL INTERPRETATION AND CONCLUSION
+
+The target protein sequence was analysed using a stepwise bioinformatics
+pipeline involving sequence quality assessment, homology search, and
+functional annotation.
+
+Sequence quality analysis confirmed that the protein is of sufficient
+length (573 amino acids) and suitable for downstream analysis.
+
+BLAST-based homology search identified the closest homologs as ESX-1
+secretion system protein EccA1 from multiple Mycobacterium species,
+including Mycobacterium tuberculosis. The presence of a full-length
+alignment with an E-value of 0.0 indicates strong evolutionary
+conservation.
+
+Based on the annotation of the top BLAST hits, the protein is predicted
+to function as an ATPase component of the ESX-1 (Type VII) secretion
+system. This system is known to play an important role in protein
+secretion and virulence in Mycobacterium tuberculosis.
+
+Therefore, the analysed sequence is likely to be involved in ESX-1
+mediated secretion processes that contribute to bacterial pathogenicity.
+This functional interpretation is inferred from sequence similarity and
+has not been experimentally validated.

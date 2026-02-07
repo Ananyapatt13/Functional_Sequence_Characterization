@@ -1,0 +1,29 @@
+SEQUENCE QUALITY ANALYSIS
+------------------------
+Sequence ID: sp|P9WPH9|ECCA1_MYCTU
+Sequence Length: 573
+
+Amino Acid Composition:
+M : 16
+T : 34
+D : 37
+R : 47
+L : 53
+A : 93
+S : 31
+F : 14
+E : 44
+V : 34
+P : 17
+I : 28
+N : 17
+Y : 14
+C : 5
+W : 8
+G : 37
+Q : 21
+H : 6
+K : 17
+
+Decision:
+Sequence accepted for downstream analysis

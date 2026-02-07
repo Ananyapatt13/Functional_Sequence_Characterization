@@ -1,0 +1,10 @@
+STEP 4: HOMOLOGY SEARCH RESULTS
+--------------------------------
+Top BLAST hit:
+ref|WP_003399850.1| MULTISPECIES: type VII secretion system ESX-1 AAA family ATPase EccA1 [Mycobacterium] >ref|NP_218385.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis H37Rv] >sp|P9WPH8.1| RecName: Full=ESX-1 secretion system protein EccA1; AltName: Full=ESX conserved component A1; AltName: Full=Type VII secretion system protein EccA1; Short=T7SS protein EccA1 [Mycobacterium tuberculosis CDC1551] >sp|P9WPH9.1| RecName: Full=ESX-1 secretion system protein EccA1; AltName: Full=ESX conserved component A1; AltName: Full=Type VII secretion system protein EccA1; Short=T7SS protein EccA1 [Mycobacterium tuberculosis H37Rv] >gb|AFE18641.1| hypothetical protein MRGA327_23820 [Mycobacterium tuberculosis RGTB327] >gb|AGJ70031.1| hypothetical protein J112_20785 [Mycobacterium tuberculosis str. Beijing/NITR203] >gb|EAY61424.1| conserved hypothetical protein [Mycobacterium tuberculosis C] >gb|EFD75580.1| ATPase [Mycobacterium tuberculosis GM 1503] >gb|EFP17094.1| hypothetical protein TMBG_02408 [Mycobacterium tuberculosis SUMu002] >gb|EFP52783.1| hypothetical protein TMLG_00364 [Mycobacterium tuberculosis SUMu012] >gb|EPZ62813.1| hypothetical protein TBKG_03812 [Mycobacterium tuberculosis '98-R604 INH-RIF-EM'] >gb|KAK24874.1| peptidase S49 [Mycobacterium tuberculosis CWCFVRF MDRTB 670] >gb|KBG11805.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis variant africanum MAL010071] >gb|KBH08501.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis variant africanum MAL010128] >gb|KBH70886.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis variant africanum MAL020136] >gb|KBI27018.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis variant africanum MAL020173] >gb|KBI39425.1| ESX-1 secretion system protein EccA1 [Mycobacterium tuberculosis variant africanum MAL020176]
+
+Score: 3013.0
+E-value: 0.0
+
+Query range: 1 - 573
+Subject range: 1 - 573
